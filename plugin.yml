@@ -1,0 +1,11 @@
+name: CrownGodSword
+version: 1.0.0
+main: com.crownsmp.godsword.CrownGodSword
+api-version: '1.21'
+commands:
+  cgs:
+    description: Get Crown God Sword
+    usage: /cgs
+permissions:
+  crowngodsword.give:
+    default: op
